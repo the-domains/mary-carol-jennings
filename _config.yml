@@ -1,7 +1,7 @@
 name: Mary Carol Jennings
 favicon: null
-layout_spectrum: 0.7166783828288317
-typography_spectrum: 0.8989904297050089
+layout_spectrum: 0.44217
+typography_spectrum: 0.8284
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.38591665495187044
-  lightness: 0.9847250818274915
-  saturation: 0.7260991032235324
-  rhythmicContrast: 0.10758428880944848
+    - '#f9f9f9'
+    - '#0a090d'
+    - '#9eafcb'
+    - '#354702'
+    - '#71780a'
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
