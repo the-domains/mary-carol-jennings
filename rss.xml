@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mary Carol Jennings]]></title>
         <description><![CDATA[Mary Carol Jennings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mary-carol-jennings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 14:07:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 14:07:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mary-carol-jennings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26641202-a0d9-4e6f-85b0-9ba0e6f92111.png">]]></description>
+            <link>https://thegrid.ai/mary-carol-jennings/81452eb9-6d6d-4160-8987-45e55f834c61/index.html</link>
+            <guid isPermaLink="false">81452eb9-6d6d-4160-8987-45e55f834c61</guid>
+            <pubDate>Sat, 05 Mar 2016 14:07:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b47c7db1-de4d-4a56-9cb6-99bef7cec5f6.jpg">]]></description>
-            <link>undefinedd78e7cc9-8a9e-4586-80ed-5b1668da2c17/index.html</link>
+            <link>https://thegrid.ai/mary-carol-jennings/d78e7cc9-8a9e-4586-80ed-5b1668da2c17/index.html</link>
             <guid isPermaLink="false">d78e7cc9-8a9e-4586-80ed-5b1668da2c17</guid>
             <pubDate>Sat, 05 Mar 2016 14:05:48 GMT</pubDate>
         </item>
